@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+
+.git/
+.gitignore
+
+.vscode/
+.idea/
+
+mlflow.db
+mlruns/
+
+*.csv
+*.log
+
+ag-news-cli_accessKeys*

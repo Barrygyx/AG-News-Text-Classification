@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+mlflow.db
+mlruns/
+
+.env
+*.log
+
+ag-news-cli_accessKeys*
+*accessKey*
+*access_key*
+
+minilm_model/

@@ -1,0 +1,6 @@
+fastapi==0.142.2
+uvicorn[standard]
+numpy==2.4.6
+scikit-learn==1.9.1
+sentence-transformers==6.1.0
+joblib==1.6.0
