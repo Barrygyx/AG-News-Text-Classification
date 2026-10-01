@@ -6,7 +6,7 @@ The application classifies news articles into four categories:
 
 **World · Sports · Business · Sci/Tech**
 
-**[Live Demo](YOUR_LAMBDA_FUNCTION_URL)**
+**[Live Demo](https://darsmebyilqc34nfkmkr3ftkgq0tqahc.lambda-url.us-east-2.on.aws/)**
 
 ---
 
